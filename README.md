@@ -9,7 +9,7 @@ Find products frequently purchased together and introduce association-style anal
 - NumPy
 
 ## Dataset
-`data/retail_transactions.csv` contains transaction-level retail data with:
+`data/retail_transactions.csv` contains transaction-level retail data with: 
 - `OrderID` - unique order identifier
 - `Product` - product purchased in that order
 
